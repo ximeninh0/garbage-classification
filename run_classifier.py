@@ -11,7 +11,7 @@ if __name__ == "__main__":
     model.train(data=file, 
                 epochs=50,
 
-                project='runs/classify_v1',
+                project='runs/classify_v3',
                 exist_ok=True,
                 resume=False,
                 )
