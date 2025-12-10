@@ -1,0 +1,129 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "plastic",
+      "points": [
+        [
+          125.70930232558138,
+          134.56589147286823
+        ],
+        [
+          24.740310077519375,
+          21.19379844961241
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plastic",
+      "points": [
+        [
+          161.9496124031008,
+          137.66666666666669
+        ],
+        [
+          85.78682170542635,
+          13.829457364341089
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plastic",
+      "points": [
+        [
+          235.20542635658913,
+          141.34883720930233
+        ],
+        [
+          157.2984496124031,
+          21.775193798449614
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plastic",
+      "points": [
+        [
+          289.468992248062,
+          142.12403100775194
+        ],
+        [
+          228.42248062015503,
+          36.50387596899225
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plastic",
+      "points": [
+        [
+          60.399224806201545,
+          19.06201550387597
+        ],
+        [
+          109.62403100775192,
+          55.49612403100776
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plastic",
+      "points": [
+        [
+          113.30620155038758,
+          26.038759689922486
+        ],
+        [
+          135.39922480620154,
+          50.26356589147287
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plastic",
+      "points": [
+        [
+          127.6472868217054,
+          22.356589147286826
+        ],
+        [
+          164.46899224806202,
+          49.48837209302325
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "plastic64.jpg",
+  "imageData": null,
+  "imageHeight": 167,
+  "imageWidth": 302
+}

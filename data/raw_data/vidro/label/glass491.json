@@ -1,0 +1,44 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "glass",
+      "points": [
+        [
+          38.064681724846004,
+          54.081108829568784
+        ],
+        [
+          102.541067761807,
+          208.70123203285422
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          174.20431211498973,
+          54.69712525667351
+        ],
+        [
+          108.90657084188913,
+          211.57597535934292
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "brown-glass491.jpg",
+  "imageData": null,
+  "imageHeight": 225,
+  "imageWidth": 225
+}

@@ -1,0 +1,27 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "glass",
+      "points": [
+        [
+          183.03388090349077,
+          176.46303901437372
+        ],
+        [
+          61.88398357289528,
+          54.69712525667351
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "white-glass519.jpg",
+  "imageData": null,
+  "imageHeight": 225,
+  "imageWidth": 225
+}

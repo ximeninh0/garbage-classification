@@ -1,0 +1,27 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "glass",
+      "points": [
+        [
+          159.83059548254622,
+          219.99486652977413
+        ],
+        [
+          65.3747433264887,
+          8.290554414784394
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "brown-glass606.jpg",
+  "imageData": null,
+  "imageHeight": 225,
+  "imageWidth": 225
+}

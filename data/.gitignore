@@ -4,3 +4,4 @@ dataset_yolo_v3
 garbage_classification_v1
 garbage_classification_v2
 garbage_classification_v3
+**/*.jpg

@@ -1,0 +1,27 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "paper",
+      "points": [
+        [
+          172.25596529284167,
+          212.2993492407809
+        ],
+        [
+          45.140997830802604,
+          28.785249457700658
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "plastic127.jpg",
+  "imageData": null,
+  "imageHeight": 240,
+  "imageWidth": 320
+}

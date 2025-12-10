@@ -1,0 +1,78 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "glass",
+      "points": [
+        [
+          117.32546201232034,
+          203.97843942505133
+        ],
+        [
+          16.5041067761807,
+          115.06673511293634
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          216.0934291581109,
+          196.38090349075975
+        ],
+        [
+          118.35215605749488,
+          106.44250513347022
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          204.38911704312116,
+          100.89835728952772
+        ],
+        [
+          116.0934291581109,
+          33.54722792607802
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          103.15708418891171,
+          95.76488706365504
+        ],
+        [
+          16.298767967145785,
+          25.74435318275154
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "green-glass626.jpg",
+  "imageData": null,
+  "imageHeight": 225,
+  "imageWidth": 225
+}

@@ -1,0 +1,112 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "glass",
+      "points": [
+        [
+          60.857289527720745,
+          13.013347022587268
+        ],
+        [
+          91.45277207392198,
+          188.78336755646816
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          107.8798767967146,
+          16.29876796714579
+        ],
+        [
+          137.4486652977413,
+          193.91683778234085
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          181.3911704312115,
+          19.584188911704313
+        ],
+        [
+          148.3316221765914,
+          195.55954825462013
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          165.78542094455852,
+          28.824435318275153
+        ],
+        [
+          119.58418891170433,
+          210.7546201232033
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          122.0482546201232,
+          23.485626283367555
+        ],
+        [
+          79.1324435318275,
+          203.5677618069815
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          38.064681724846004,
+          20.200205338809035
+        ],
+        [
+          80.9804928131417,
+          195.76488706365504
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "green-glass284.jpg",
+  "imageData": null,
+  "imageHeight": 225,
+  "imageWidth": 225
+}

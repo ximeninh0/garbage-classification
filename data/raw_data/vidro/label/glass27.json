@@ -1,0 +1,28 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "glass",
+      "points": [
+        [
+          57.5263157894737,
+          39.807017543859665
+        ],
+        [
+          153.57894736842104,
+          209.10526315789474
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\glass27.jpg",
+  "imageData": null,
+  "imageHeight": 259,
+  "imageWidth": 194
+}

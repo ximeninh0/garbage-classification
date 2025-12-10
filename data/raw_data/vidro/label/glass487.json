@@ -1,0 +1,27 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "glass",
+      "points": [
+        [
+          174.40965092402465,
+          215.47741273100615
+        ],
+        [
+          62.91067761806982,
+          12.19199178644764
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "green-glass487.jpg",
+  "imageData": null,
+  "imageHeight": 225,
+  "imageWidth": 225
+}

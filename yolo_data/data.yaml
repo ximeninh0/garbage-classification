@@ -1,0 +1,16 @@
+path: ./yolo_data/
+
+train: train/images
+val: val/images
+
+# Nomes das classes
+  # case "paper":   label = 0
+  #   case "glass":   label = 1
+  #   case "plastic": label = 2
+  #   case "metal":   label = 3
+
+names:
+  0: "paper"
+  1: "glass"
+  2: "plastic"
+  3: "metal"

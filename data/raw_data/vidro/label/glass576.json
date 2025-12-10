@@ -1,0 +1,146 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "glass",
+      "points": [
+        [
+          92.2433628318584,
+          160.6283185840708
+        ],
+        [
+          38.08407079646018,
+          58.681415929203546
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          131.712389380531,
+          161.86725663716814
+        ],
+        [
+          88.88053097345133,
+          58.681415929203546
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          181.26991150442478,
+          159.9203539823009
+        ],
+        [
+          138.61504424778764,
+          55.495575221238944
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          232.2433628318584,
+          162.92920353982302
+        ],
+        [
+          176.66814159292036,
+          54.2566371681416
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "metal",
+      "points": [
+        [
+          41.80088495575222,
+          47.707964601769916
+        ],
+        [
+          63.92477876106196,
+          59.92035398230089
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "metal",
+      "points": [
+        [
+          95.07522123893806,
+          48.41592920353983
+        ],
+        [
+          115.96017699115045,
+          60.274336283185846
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "metal",
+      "points": [
+        [
+          151.00442477876106,
+          45.05309734513275
+        ],
+        [
+          172.95132743362834,
+          56.02654867256638
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "metal",
+      "points": [
+        [
+          206.0486725663717,
+          45.23008849557523
+        ],
+        [
+          228.70353982300887,
+          54.61061946902655
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "green-glass576.jpg",
+  "imageData": null,
+  "imageHeight": 194,
+  "imageWidth": 259
+}

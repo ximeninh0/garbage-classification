@@ -1,0 +1,112 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "metal",
+      "points": [
+        [
+          112.60303687635574,
+          184.75054229934923
+        ],
+        [
+          1.3232104121475103,
+          29.436008676789594
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "paper",
+      "points": [
+        [
+          114.77223427331886,
+          135.72668112798266
+        ],
+        [
+          186.78958785249458,
+          30.303687635574843
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plastic",
+      "points": [
+        [
+          212.38611713665944,
+          135.29284164859
+        ],
+        [
+          126.0520607375271,
+          59.587852494577014
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plastic",
+      "points": [
+        [
+          259.89154013015184,
+          111.86550976138828
+        ],
+        [
+          154.68546637744035,
+          9.045553145336235
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plastic",
+      "points": [
+        [
+          148.6117136659436,
+          237.0281995661605
+        ],
+        [
+          301.5401301518438,
+          140.93275488069415
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plastic",
+      "points": [
+        [
+          312.3861171366594,
+          196.68112798264642
+        ],
+        [
+          202.65477059919982,
+          239.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "plastic117.jpg",
+  "imageData": null,
+  "imageHeight": 240,
+  "imageWidth": 320
+}

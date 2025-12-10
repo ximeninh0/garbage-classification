@@ -1,0 +1,78 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "plastic",
+      "points": [
+        [
+          143.4056399132321,
+          179.97830802603036
+        ],
+        [
+          0.0,
+          1.5851475315579364
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "paper",
+      "points": [
+        [
+          190.69414316702822,
+          138.763557483731
+        ],
+        [
+          70.52060737527114,
+          234.64208242950107
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plastic",
+      "points": [
+        [
+          236.89804772234274,
+          96.46420824295011
+        ],
+        [
+          132.55965292841648,
+          191.47505422993493
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "plastic",
+      "points": [
+        [
+          270.0867678958785,
+          16.637744034707165
+        ],
+        [
+          118.67678958785248,
+          122.06073752711497
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "plastic118.jpg",
+  "imageData": null,
+  "imageHeight": 240,
+  "imageWidth": 320
+}

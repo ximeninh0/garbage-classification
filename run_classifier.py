@@ -2,16 +2,16 @@ from ultralytics import YOLO
 
 # https://docs.ultralytics.com/pt/tasks/classify
 
-versao_YOLO = "yolo11n-cls.pt"
+versao_YOLO = "yolo11m-cls.pt"
 model = YOLO(versao_YOLO)
-file = "data\dataset_yolo_v1"
+file = "data\dataset_yolo_v3"
 
 
 if __name__ == "__main__":
     model.train(data=file, 
                 epochs=50,
 
-                project='runs/classify_v3',
+                project='runs/classify_v3_5',
                 exist_ok=True,
                 resume=False,
                 )

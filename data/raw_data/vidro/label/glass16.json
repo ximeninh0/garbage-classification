@@ -1,0 +1,46 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "glass",
+      "points": [
+        [
+          6.416349809885929,
+          69.34410646387833
+        ],
+        [
+          220.86501901140687,
+          176.18821292775667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "glass",
+      "points": [
+        [
+          190.06653992395437,
+          156.41634980988593
+        ],
+        [
+          190.06653992395437,
+          156.41634980988593
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\glass16.jpg",
+  "imageData": null,
+  "imageHeight": 225,
+  "imageWidth": 225
+}
